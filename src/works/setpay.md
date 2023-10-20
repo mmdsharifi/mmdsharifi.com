@@ -7,13 +7,14 @@ testimonial: Mohammad is talented and sharp. Paired with a keen design sense and
 clientName: Jackson Delahunt
 clientPos: Product Manager
 projectUrl: https://vote.setpaymusic.com/
-dribbble: https://dribbble.com/mmdsharifi
+dribbble: https://dribbble.com/shots/21021239-SetPay-A-music-royalty-tracking-app-for-blockchain
 featuredImg: setpay_featured
 bgColor: E9F5FE
 featured: true
 span: true
-tasks: UI/Interaction Design mobile web app
-year: 2022
+role: Product Designer
+platform: iOS web app
+year: Mar 2022
 date: 2023-02-28
 publish: true
 ---
@@ -21,45 +22,48 @@ publish: true
 
 <div class="col-start-3 col-end-9">
 
-### Background.
-SetPay rewards concert attendees for tracking a concert’s setlist. Earn SetPay (SET) Tokens by keeping track of what songs are performed tonight. SET Tokens unlock cool artist-related rewards including merchandise, tickets, backstage passes, and digital collectables! 
+### Introduction
+
+SetPay rewards concert attendees for tracking a concert’s setlist. Earn SetPay (SET) Tokens by keeping track of what songs are performed tonight. SET Tokens unlock cool artist-related rewards including merchandise, tickets, backstage passes, and digital collectibles (NFT).
+
+### My Role
+
+I'm the product designer for this project. I collaborated with product manager ([Jackson](https://www.linkedin.com/in/jacksondelahunt/)) throghout this project.
+
+### Goals
+
+<span class="uppercase text-sm">Business Goals</span>
+
+**🩵 Increase User Engagement**
+Encourage users to actively participate in tracking setlists and voting during concerts, thereby increasing overall user engagement on the SetPay platform.
+
+**💸 Monetization through Partnerships**
+Provide opportunities for partnerships with artists, venues, and sponsors, leveraging the  voting flow to create new revenue streams through collaborations and sponsorships.
+
+<hr><br>
+
+<span class="uppercase text-sm">User Goals</span>
+
+**💰 Support Favorite Artists**
+Contribute to the fair compensation of your favorite musicians by accurately tracking and confirming the songs performed during a concert, ensuring songwriters are paid fairly.
+
+**🎁 Earn Rewards**
+Effortlessly earn SET Tokens and redeem them for exclusive rewards like merchandise, tickets, backstage passes, and digital collectibles.
 
 </div>
-
-<div class="col-start-3 col-end-6">
-
-### Background.
-SetPay rewards concert attendees for tracking a concert’s setlist. Earn SetPay (SET) Tokens by keeping track of what songs are performed tonight. SET Tokens unlock cool artist-related rewards including merchandise, tickets, backstage passes, and digital collectables! 
-</div>
-
-<div class="col-start-7 col-end-9">
-
-### Role.
-
-UI and Interaction Design
-
-### Tools.
-- Figma
-- Figjam
-
-</div>
-
-<div class="col-start-2 col-end-10 bg-blue-50 p-8 border-l-4 border-blue-800">
- <span class="text-blue-900 text-4xl font-extralight italic font-serif">It's great! yeah, very cool stuff goes here babe. It can be very large </span>
-</div>
-
-
-
 <div class="col-start-3 col-end-9">
 
-### The Solution
+### User Research
 
-We come up with a solution that resembles the existing logo styling yet easy to extend to other marketplaces/products. Minimal, subtle but recognisable.
+Before starting to design I deep dive into ganing knowledge of target users. user research have done by another person. I created a simple persona to start user centeric design.
 
+{% figure 'setpay_persona', 'an old man uses a phone with a glass', 'Persona: Richard Thompson, 57 yo, Retired, former music enthusiast' %}
 
+#### The Retired Music Enthusiast
 
+Richard is a retired individual who spent the majority of his career working in the tech industry. Having a deep love for music, especially classic rock and blues, he now enjoys attending concerts and occasionally organizing small local events. Richard is tech-savvy and has been an iPhone user for many years.
 
-### The challenge
+### The Process
 
 I was tasked to improve the mobile user experience in order to increase the conversion leads. At the same time, establish a stronger brand identity throughout the design. The project scope includes the web redesign and iOS app user experience improvements.
 
@@ -75,6 +79,7 @@ Unfortunately, we did not move forward with other pages because the client need 
 </div>
 
 <div class="col-start-2 col-end-10">
+
 {% figure '99-add-listing', 'add listing process', 'The process of listing property on the platform.' %}
 </div>
 
